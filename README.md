@@ -1,2 +1,2 @@
-# Calculator2
+# Calculator
 Calculator with python
